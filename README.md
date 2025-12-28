@@ -54,7 +54,7 @@
 
 <h2 align="center"> Github Statistics 📈 </h2>
 <p align="center">
-<a href="https://github.com/azizovrafael">
+<a href="https://github.com/mihir1707">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihir1707&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mihir1707&amp;layout=compact&amp;langs_count=8&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
 </a>
