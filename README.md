@@ -52,10 +52,10 @@
 <h2 align="center"> Github Statistics 📈 </h2>
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?mihir1707=Bgstatic&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;line_height=40">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihir1707&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;line_height=40">
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?mihir1707=Bgstatic&amp;theme=react&amp;line_height=40&amp;hide=css">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir1707&amp;theme=react&amp;line_height=40&amp;hide=css">
     </a>
 </div>
 
