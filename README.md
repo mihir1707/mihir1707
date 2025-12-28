@@ -36,7 +36,7 @@
 	<a href="https://icpc.global/ICPCID/K3HXF2X95VCK"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
 </p>
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> <h2>Connect with me</h2>
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mihirkhunt2006gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/mihir1707"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -75,7 +75,7 @@
   </a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> Frontend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -98,7 +98,7 @@
   </a>
 </p>
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="40"> Software & Tools
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="40"> </picture> Software & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
@@ -115,7 +115,7 @@
 </p>
 
 
- ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="40"> IDEs
+ ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="40"> </picture> IDEs
 
 <p align="center">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078D7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
@@ -126,7 +126,7 @@
 </p>
 
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="40"> Competitive Programming & Problem Solving
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="40"> </picture> Competitive Programming & Problem Solving
 
 <p align="center">
   <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white">
@@ -138,7 +138,7 @@
 
 <hr>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px><h2 align="center"> Github Statistics </h2>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Statistics
 <p align="center">
 <a href="https://github.com/mihir1707">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihir1707&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
