@@ -65,17 +65,27 @@
 
 <hr>
 
-<h2><b>Let’s Connect</b></h2>
+  <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<ul>
-  <li>
-    <a href="https://linkedin.com/in/mihir-khunt-5a29402bb">
-      <img src="https://img.shields.io/badge/LinkedIn-mihir--khunt-blue?style=for-the-badge&logo=linkedin">
-    </a>
-  </li>
-  <li>
-    <a href="mailto:mihirkhunt2006@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-mihirkhunt2006@gmail.com-red?style=for-the-badge&logo=gmail">
-    </a>
-  </li>
-</ul>
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/mihir-khunt-5a29402bb/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
+</a>
+<a href="mailto:mihirkhunt2006@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="mihirkhunt2006@@gmail.com" mail="" style="margin-bottom: 5px;">
+</a>
+<a href="https://www.instagram.com/mihir_khunt_15" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="mihir_khunt_15" instagram="" style="margin-bottom: 5px;">
+</a>
+<!-- <a href="https://twitter.com/kiran__a__n" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;">
+</a> -->
+</div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer">
+</p>
+<hr>
