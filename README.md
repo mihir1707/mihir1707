@@ -31,7 +31,7 @@
 ---
 ### 🔗 Coding Profiles
 - 🔥 LeetCode: https://leetcode.com/MK_1502
-- ⚡ Codeforces: https://codeforces.com/profile/_Infinity_Leo_
+- ⚡ Codeforces: [https://codeforces.com/profile/_Infinity_Leo_](https://codeforces.com/profile/_Infinity_Leo_)
 - 🍴 CodeChef: https://www.codechef.com/users/infinity_leo
 
 ---
