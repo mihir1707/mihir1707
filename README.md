@@ -14,7 +14,7 @@
 
 <hr>
 
-<img align="right" width=400px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
+<img align="right" width=200px height=200px src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif">
 
 <h2><strong>About Me</strong></h2>
 
