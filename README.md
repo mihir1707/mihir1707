@@ -53,14 +53,12 @@
 <hr>
 
 <h2 align="center"> Github Statistics 📈 </h2>
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mihir1707&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;line_height=40">
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir1707&amp;theme=react&amp;line_height=40&amp;hide=css">
-    </a>
-</div>
+<p align="center">
+<a href="https://github.com/azizovrafael">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihir1707&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mihir1707&amp;layout=compact&amp;langs_count=8&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+</a>
+</p>
 
 
 <hr>
