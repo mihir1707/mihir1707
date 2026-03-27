@@ -37,6 +37,13 @@
 	<a href="https://www.codechef.com/users/infinity_leo"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 	<a href="https://icpc.global/ICPCID/K3HXF2X95VCK"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
 </p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/MK_1502?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_Infinity_Leo_&theme=dark"/>
+</p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
