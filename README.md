@@ -122,15 +122,15 @@
 </p> -->
 
 
- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="40"> </picture> IDEs
+ <!-- <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="40"> </picture> IDEs -->
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078D7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=intellijidea&logoColor=white">
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=plastic&logo=pycharm&logoColor=white">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white">
   <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?style=plastic&logo=jetbrains&logoColor=white">
-</p>
+</p> -->
 
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="40"> </picture> Competitive Programming & Problem Solving
