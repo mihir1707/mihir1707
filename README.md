@@ -66,7 +66,6 @@
       </a>
     </td>
 
-```
 <td align="center">
   <a href="https://codeforces.com/profile/_Infinity_Leo_" target="_blank">
     <img
@@ -76,7 +75,6 @@
     />
   </a>
 </td>
-```
 
   </tr>
 </table>
