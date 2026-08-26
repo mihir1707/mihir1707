@@ -19,11 +19,11 @@
 <h2><strong>About Me</strong></h2>
 
 <ul>
-  <li>🚀 Full Stack Developer & Problem Solver</li>
-  <li>🎯 Passionate about <b>Data Structures & Algorithms</b></li>
-  <li>🏆 ICPC Regionalist 2025 (Rank 51)</li>
-  <li>💻 Comfortable with <b>C++, JavaScript, Python</b></li>
-  <li>🚀 Love solving problems on <b>LeetCode & Codeforces</b></li>
+  <li>Backend Developer & Problem Solver</li>
+  <li>Passionate about <b>Data Structures & Algorithms</b></li>
+  <li>ICPC Regionalist 2025 (Rank 51)</li>
+  <li>Comfortable with <b>C++, JavaScript, Python</b></li>
+  <li>Love solving problems on <b>LeetCode & Codeforces</b></li>
 </ul>
 
 <hr>
@@ -31,26 +31,69 @@
  <h1>My Competitive Programming Profiles</h1>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/_Infinity_Leo_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/MK_1502/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/_Infinity_Leo_"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/infinity_leo"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/K3HXF2X95VCK"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/MK_1502?theme=dark&font=Baloo&ext=heatmap"/>
+  <a href="https://codeforces.com/profile/_Infinity_Leo_" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" width="50">
+  </a>
+
+  <a href="https://leetcode.com/MK_1502/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="50">
+  </a>
+
+  <a href="https://atcoder.jp/users/_Infinity_Leo_" target="_blank">
+    <img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="60">
+  </a>
+
+  <a href="https://www.codechef.com/users/infinity_leo" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/codechef.png" alt="CodeChef" width="50">
+  </a>
+
+  <a href="https://icpc.global/ICPCID/K3HXF2X95VCK" target="_blank">
+    <img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width="60">
+  </a>
 </p>
 
+<!-- Competitive Programming Stats -->
+
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_Infinity_Leo_&theme=dark"/>
+  <a href="https://leetcode.com/MK_1502/" target="_blank">
+    <img 
+      src="https://leetcard.jacoblin.cool/MK_1502?theme=dark&font=Baloo&ext=heatmap"
+      alt="LeetCode Stats"
+      height="300"
+      style="border: 2px solid white; border-radius: 10px;"
+    >
+  </a>
+
+  <a href="https://codeforces.com/profile/_Infinity_Leo_" target="_blank">
+    <img 
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=_Infinity_Leo_&theme=dark"
+      alt="Codeforces Stats"
+      height="300"
+      style="border: 2px solid white; border-radius: 10px;"
+    >
+  </a>
 </p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<!-- Connect With Me -->
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me
+
 <p align="center">
-	<a href="mihirkhunt2006gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/mihir1707"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mihir-khunt-5a29402bb/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/mihir_khunt_15/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:mihirkhunt2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <a href="https://github.com/mihir1707" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="https://www.linkedin.com/in/mihir-khunt-5a29402bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.instagram.com/mihir_khunt_15/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 
