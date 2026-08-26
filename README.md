@@ -28,7 +28,7 @@
 
 <hr>
 
- <h1>My Competitive Programming Profiles</h1>
+<h1>My Competitive Programming Profiles</h1>
 
 <p align="center">
   <a href="https://codeforces.com/profile/_Infinity_Leo_" target="_blank">
@@ -52,31 +52,36 @@
   </a>
 </p>
 
-<!-- Competitive Programming Stats -->
+<h2>Competitive Programming Stats</h2>
 
-<p align="center">
-  <a href="https://leetcode.com/MK_1502/" target="_blank">
-    <img 
-      src="https://leetcard.jacoblin.cool/MK_1502?theme=dark&font=Baloo&ext=heatmap"
-      alt="LeetCode Stats"
-      height="300"
-      style="border: 2px solid white; border-radius: 10px;"
-    >
-  </a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/MK_1502/" target="_blank">
+        <img
+          src="https://leetcard.jacoblin.cool/MK_1502?theme=dark&font=Baloo&ext=heatmap"
+          alt="LeetCode Stats"
+          width="450"
+        />
+      </a>
+    </td>
 
+```
+<td align="center">
   <a href="https://codeforces.com/profile/_Infinity_Leo_" target="_blank">
-    <img 
+    <img
       src="https://codeforces-readme-stats.vercel.app/api/card?username=_Infinity_Leo_&theme=dark"
       alt="Codeforces Stats"
-      height="300"
-      style="border: 2px solid white; border-radius: 10px;"
-    >
+      width="450"
+    />
   </a>
-</p>
+</td>
+```
 
-<!-- Connect With Me -->
+  </tr>
+</table>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me
+<h2>Connect with me</h2>
 
 <p align="center">
   <a href="mailto:mihirkhunt2006@gmail.com" target="_blank">
@@ -90,11 +95,8 @@
   <a href="https://www.linkedin.com/in/mihir-khunt-5a29402bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  <a href="https://www.instagram.com/mihir_khunt_15/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
 </p>
+
 
 
 
