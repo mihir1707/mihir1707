@@ -24,7 +24,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
 <ul>
   <li>Full Stack Developer & Problem Solver</li>
   <li>Passionate about <b>Data Structures & Algorithms</b></li>
-  <li>ICPC Regionalist 2025 — <b>Rank 51</b> 🏆</li>
+  <li>ICPC Regionalist 2025 - <b>Rank 51</b> 🏆</li>
   <li>Building scalable and user-focused web applications</li>
   <li>Experienced with <b>C++, JavaScript, Python, React & Node.js</b></li>
   <li>Love solving challenging problems on <b>LeetCode & Codeforces</b></li>
